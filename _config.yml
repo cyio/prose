@@ -3,8 +3,8 @@ server: true
 pygments: true
 permalink: none
 baseurl: "prose/"
-oauth_client_id: 
-gatekeeper_url: 
+oauth_client_id: 243028f2aacf516e33b9
+gatekeeper_url: http://gatekeeper-cyio.herokuapp.com/
 exclude:
 - .gitignore
 - README.md
